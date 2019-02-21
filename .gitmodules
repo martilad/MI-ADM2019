@@ -1,0 +1,3 @@
+[submodule "mi-adm-2018-martilad"]
+	path = mi-adm-2018-martilad
+	url = git@gitlab.fit.cvut.cz:martilad/mi-adm-2018-martilad.git
